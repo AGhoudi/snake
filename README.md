@@ -19,6 +19,6 @@ A Venir...
 
 <p align=center>Voici un lien pour tester le jeu:
 <div align=center>
-  
+  A venir...
 </div>
 </p>
