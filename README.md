@@ -19,6 +19,6 @@ A Venir...
 
 <p align=center>Voici un lien pour tester le jeu:
 <div align=center>
-  <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank" class="text-bold"
+  <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank"
 </div>
 </p>
